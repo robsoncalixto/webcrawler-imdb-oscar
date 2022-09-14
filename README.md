@@ -9,7 +9,13 @@ The project goal is to navegate on IMDB list Oscar 2022 using selenium and other
 - Python   3.10.5
 
 ## Running
+
 ```python
-### Run webcrawler
+# run webcrawler
 py ./webcrawler/Automacao.py
+```
+
+```python
+# run api
+node ./api/app.js
 ```
